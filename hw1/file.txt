@@ -2,3 +2,4 @@ contents
 more contents
 new contents
 better contents
+scoreable contents
