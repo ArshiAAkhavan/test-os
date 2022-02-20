@@ -1,4 +1,4 @@
-20-02-2022 09:29:40
+20-02-2022 09:30:07
 Your grade is 0.0/100.
 
 Passed:
@@ -12,5 +12,4 @@ Task << background process >> not passed!
 Task << work with signal >> not passed!
 
 Note: Task << work with signals >> will check manually. You're maximum grade from judge will be about 83.
-‫یکشنبه ۲۰ فوریه ۲۲، ساعات ۱۲:۵۹:۴۰ (+0330)‬
-‫یکشنبه ۲۰ فوریه ۲۲، ساعات ۱۲:۵۹:۴۸ (+0330)‬
+‫یکشنبه ۲۰ فوریه ۲۲، ساعات ۱۳:۰۰:۰۷ (+0330)‬
