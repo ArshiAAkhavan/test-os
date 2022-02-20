@@ -13,3 +13,4 @@ Task << work with signal >> not passed!
 
 Note: Task << work with signals >> will check manually. You're maximum grade from judge will be about 83.
 ‫یکشنبه ۲۰ فوریه ۲۲، ساعات ۱۳:۰۳:۱۱ (+0330)‬
+‫یکشنبه ۲۰ فوریه ۲۲، ساعات ۱۳:۰۳:۱۹ (+0330)‬
