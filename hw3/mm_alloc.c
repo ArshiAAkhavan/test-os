@@ -24,7 +24,6 @@ void* mm_malloc(size_t size)
 void* mm_realloc(void* ptr, size_t size)
 {
 #ifdef MM_USE_STUBS
-    //some code
     return realloc(ptr, size);
 #else
 #error Not implemented.
